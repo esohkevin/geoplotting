@@ -1,0 +1,42 @@
+Country,G1,G2,Ref,Lat,Lon
+Algeria,1.8,0,Kopp et al.,32,3
+Angola,14.9,18.7,Pinto et al.,-17,12.6
+Angola,4.5,9.6,Pinto et al.,-15.6,13.1
+Angola,4.5,9.6,Pinto et al.,-14.6,13.2
+Angola,3,10.6,Pinto et al.,-15.8,12.1
+Angola,0,14.3,Pinto et al.,-15.9,12.6
+Angola,0,1.4,Pinto et al.,-16.3,16
+Botswana,5.5,5.5,Limou et al.,-24.6,25.9
+Cameroon,0.8,3.3,Tzur et al.;Behar et al.,12.5,14.5
+Cameroon,16.4,12.3,Tzur et al.;Behar et al.,6.5,11.5
+Central African Republic,4.2,8.3,Kopp et al.,4,17
+Ethiopia,0,0,Tzur et al.;Behar et al.,12,41.5
+Ethiopia,0,0,Tzur et al.;Behar et al.,11.5,38.5
+Ethiopia,2,2.7,Tzur et al.;Behar et al.,8.3,34.6
+Ethiopia,0,0,Tzur et al.;Behar et al.,7.6,37.2
+Ethiopia,0,0,Tzur et al.;Behar et al.,9,38.7
+Ghana,43,11,Thomson et al.,6.7,-1.6
+Ghana,40.9,12.9,Tzur et al.;Behar et al.,5.8,-2.8
+Ghana,11.4,21.4,Tzur et al.;Behar et al.,10.7,-1.3
+Ghana,27,17,Thomson et al.,5.6,-0.2
+Guinea,15.4,18.8,Cooper et al.,9.8,-13.6
+Kenya,5,6,Thomson et al.,-0.4,37
+Kenya,8,9,Thomson et al.,-0.5,34.7
+Kenya,5,7,Kopp et al.,0.6,34.6
+Kenya,2,3,Thomson et al.,-1.1,35.9
+Malawi,12,12,Tzur et al.;Behar et al.,-13.9,33.7
+Mozambique,12.2,11,Tzur et al.;Behar et al.,-17.5,35
+Mozambique,17.4,21.7,Pinto et al.,-24.3,32.9
+Nigeria,49,N/A,1000 genomes project,9.1,7.4
+Nigeria,49,17,Thomson et al.,6.5,7.5
+Nigeria,38,8,Genovese et al.,7.4,3.9
+Republic of the Congo,10.9,4.5,Tzur et al.;Behar et al.,-4.3,15.3
+São Tomé e Príncipe,20.3,10.1,Pinto et al.,0.25,6.6
+Senegal,5,20,Kopp et al.,12,-12
+Sierra Leone,12,N/A,1000 genomes project,8.6,-11.8
+Somalia,0,2,Thomson et al.,2,45.4
+South Africa,3.6,5.8,Matsha et al.,-33.9,18.4
+South Africa,5.3,5.5,Limou et al.,-29.9,30.9
+Sudan,0,5,Tzur et al.;Behar et al.,13.1,30.4
+The Gambia,24,N/A,1000 genomes project,13.2,-16.3
+Uganda,3.3,7.2,Cooper et al.,1.9,33.3
